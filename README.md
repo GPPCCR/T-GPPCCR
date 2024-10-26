@@ -1,8 +1,7 @@
 👋 'Hello World' I’m @GPPCCR
 
-<!---
- ✨ special ✨ 
---->
+<img src="pessoas_pobres_com_computadores_ruins.ico">
+
 
 This project has only 2 collaborators, making it a challenge to create and maintain it. Our project is simple to explain, it does not have a business plan because our only task after it is ready is to integrate it into society, leaving it freely in the market for its users to make excellent use of it with wisdom. It can be used to buy accounts in games, used hardware, systems, contracts between friends, commercial contracts, bets between friends, etc. It can be used for everything you want and need. The main objective of this project is to be used by the I.T. community to avoid the absurdly high taxes that the government forces you to pay and declare on everything you acquire in the market, including bank transactions. You are the owners of this network and chain of this contract, use it wisely.
 
